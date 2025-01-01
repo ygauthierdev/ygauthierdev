@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @ygauthierdev...
-  I'am a software developer from france, with about 10 years of experience with Fedora linux
+  I'am a software developer from france, I enjoy leaning, taking and thinking about mathematics, porgramming and sciences in general. 
   
 ###  👀 I’m interested in ...
 I recently got a Macbook and I started to really enjoy the apple ecosystem, so much so that I decided to go all in with the apple product and start so developed for that partical plaform.
